@@ -23,7 +23,7 @@
     <loc>https://tlctw.github.io/categories/%E5%BF%83%E5%BE%97/</loc>
     <lastmod>2022-02-18T11:21:00+08:00</lastmod>
   </url><url>
-    <loc>https://tlctw.github.io/blog/test/</loc>
+    <loc>https://tlctw.github.io/blog/my-first-post/</loc>
     <lastmod>2022-02-18T11:21:00+08:00</lastmod>
   </url><url>
     <loc>https://tlctw.github.io/</loc>
@@ -60,5 +60,7 @@
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
     <loc>https://tlctw.github.io/blog/test2/</loc>
+  </url><url>
+    <loc>https://tlctw.github.io/blog/second-post/</loc>
   </url>
 </urlset>
